@@ -18,3 +18,6 @@
 ![типы данных](Images/Data_types.JPG)
 
 ![Рандомное число](Images/Random.JPG)
+
+# Цыклы
+![циклы](Images/cycle.JPG)
