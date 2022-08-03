@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Учеба_GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\Example_001_Hello_Console.csproj": {}
+  },
+  "projects": {
+    "D:\\Учеба_GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\Example_001_Hello_Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Учеба_GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\Example_001_Hello_Console.csproj",
+        "projectName": "Example_001_Hello_Console",
+        "projectPath": "D:\\Учеба_GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\Example_001_Hello_Console.csproj",
+        "packagesPath": "C:\\Users\\Ignat\\.nuget\\packages\\",
+        "outputPath": "D:\\Учеба_GeekBrains\\C#\\Examples\\Example_001_Hello_Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ignat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
