@@ -3,10 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 Images
-*.obj
-Examples\Exampe_002_Hello_User\obj
-Examples\Example_001_Hello_Console\obj
-obj
+
 
 # User-specific files
 *.rsuser
